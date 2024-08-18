@@ -1,0 +1,10 @@
+.emptySeats {
+  width: 90vh;
+  height: 40vh;
+}
+
+.row {
+  display: flex;
+  align-items: center; /* Vertically centers items */
+  justify-content: center; /* Horizontally centers items */
+}
